@@ -12,3 +12,4 @@ If you want to train the DMRO-Fusion network, you should run ```'train.py'```.
 ## Testing
 For test images, run ```'test.py'``` and find the results in ```'./Test_result/'```.
 
+##### *****Our codes are benefited from the project of [[IVIF-AUIF-Net]](https://github.com/Zhaozixiang1228/IVIF-AUIF-Net). Thank the authors of IVIF-AUIF-Net for sharing their codes. 
